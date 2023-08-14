@@ -1,0 +1,30 @@
+Liquidity Ratio:
+As we know the The higher the Liquidity ratio, the better the company’s ability to 
+pay current obligations with current assets.
+From the data above we can see the company is in good standing since the current ratio is above 1 for last 3 years.
+
+Operating Ratio:
+
+Total Assets Turnover:
+ This ratio gives comparison between total value of assets and annual sales to determine if assets are being used properly to get maximum sales.
+From data above we can see in 2020 they had good value for assets but sales were not much we can see effect of panademic here but in 2021 they bounced back harder.
+Inventory Turnover:
+In this ratio you look at your annual sales and you kind of know it for your next year as well you see whats your inventory to fulfil the forcasted sales.
+
+DEBT Managment Ratios:
+Debt/Equity Ratio: This ratio shows you what you are getting from bank as loan to add in as part of company capital.
+From data above we can see it just only very small percentage as compared to Share Holder's part.
+
+Times Interest Earned (TIE):
+Now this ratio shows the effect of intrest on bank borrowed money to the earning that you have before the intrest and taxes.
+From the data above we can see in year 2021 they did a great job because intrest expense that year in very low.
+
+
+PROFITABILITY RATIOS: 
+
+Profit Margin:  This ratio gives a comparison between sales and net income.
+from numbers above we can see that their sales in these years are good but there net income compared to it is not that good. 
+
+Return On Equity:
+ This ratio explains us that with net income how soon you can get the same amount that you have invested.
+In my understanding the numbers above are not pretty satisfying.
